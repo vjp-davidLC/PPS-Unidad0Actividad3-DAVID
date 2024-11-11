@@ -2,7 +2,7 @@
 
 Aquí tienes los siguientes enlaces para los diferentes pasos del proyecto:
 
-[GitHub](Gitub.md)
+[GitHub](GitHub.md)
 [GitLab](Gitlab.md)
 [Install](Install.md)
 [UsoGit](UsoGit.md)
